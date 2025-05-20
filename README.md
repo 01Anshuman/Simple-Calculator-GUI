@@ -18,6 +18,6 @@ This is a beginner-friendly Python project that implements a simple calculator u
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/calculator_gui.git
+git clone https://github.com/01Anshuman/calculator_gui.git
 cd calculator_gui
 python calculator.py
