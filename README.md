@@ -13,7 +13,7 @@ This is a beginner-friendly Python project that implements a simple calculator u
 - Tkinter (built-in GUI package)
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 
 ## How to Run
